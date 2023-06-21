@@ -1,0 +1,37 @@
+{
+  "messages": [
+    {
+      "text": "Hello!",
+      "name": "nevodavid",
+      "id": "abcd01"
+    },
+    {
+      "text": "Welcome to my chat application!💃🏻",
+      "name": "nevodavid",
+      "id": "defg02"
+    },
+    {
+      "text": "You can start chatting!📲",
+      "name": "nevodavid",
+      "id": "hijk03"
+    },
+    {
+      "text": "hi",
+      "name": "antony",
+      "id": "UW67vuPGxNw_fTy1AAAB0.9026401815577256",
+      "socketID": "UW67vuPGxNw_fTy1AAAB"
+    },
+    {
+      "text": "hello skillup guys",
+      "name": "iiamantoni",
+      "id": "SBR54yrjd2kkULjaAAAB0.702880696865664",
+      "socketID": "SBR54yrjd2kkULjaAAAB"
+    },
+    {
+      "text": "hi",
+      "name": "bennie",
+      "id": "RyLdeCUyprZ9BnaSAAAH0.9577590870870745",
+      "socketID": "RyLdeCUyprZ9BnaSAAAH"
+    }
+  ]
+}
